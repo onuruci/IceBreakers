@@ -1,0 +1,228 @@
+#navbar {
+    display: flex;
+    width: 100%;
+    height: 100px;
+}
+
+div {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#ds {
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: 1px;
+}
+
+#evo{
+    color: white;
+    align-content: center;
+    margin-right: auto;
+    justify-content: center;
+    text-align: center;
+}
+
+#evb {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#tpl {
+    font-size: 60px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#sp {
+    align-items: center;
+    font-size: 30px;
+}
+
+#sidepar {
+    min-width: 440px;
+    height: 200px;
+    margin-left: 30px;
+}
+
+#ahome {
+    display: flex;
+}
+
+#hom {
+    width: auto;
+    height: 450px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+#alto {
+    margin-left: 25px;
+    font-size: 30px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#root {
+    background-image: url('./images/back.jpg');
+    background-size: 1024px;
+    height: 768px;
+    width: 1024px;
+    background-repeat: no-repeat;
+}
+
+#home {
+    width: 1024px;
+}
+
+.active {
+    color: white;
+}
+
+#logo {
+    width: 400px;
+}
+
+#use {
+    margin-top: 16px;
+    width: 400px;
+    border: solid;
+    border-color: #E96E6E;
+    border-radius: 100%;
+    box-shadow: rgba(0,0,0,0.8) 0 0 10px;
+}
+
+#use {
+    width: auto;
+    height: 100px;
+}
+
+#person {
+    margin-left: auto;
+    margin-top: auto;
+    margin-right: 40px;
+    color: white;
+}
+
+.link {
+    margin-top: auto;
+    margin-left: 60px;
+    color: white;
+    font-size: 40px;
+}
+
+#ctit {
+    font-size: 40px;
+    margin-left: 60px;
+}
+
+#tit {
+    color: green;
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+button {
+    background-color: #E96E6E;
+    color: white;
+    border: #E96E6E;
+    margin-left: 65px;
+    margin-right: auto;
+    font-size: 25px;
+}
+
+
+
+#cpage {
+    display: flex;
+}
+
+#details {
+    background-color: #E96E6E;
+    width: 200px;
+    height: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 20px;
+    font-size: 20px;
+    padding-top: 3px;
+    text-align: center;
+}
+
+#pdetails {
+    background-color: #E96E6E;
+    width: 200px;
+    height: 45px;
+    margin-left: auto;
+    margin-right: 30px;
+    margin-top: 10px;
+    border-radius: 20px;
+    font-size: 30px;
+}
+
+.photo {
+    height: 247px;
+    width: 245px;
+    margin-left: 45px;
+    border: solid;
+    border-color: #E96E6E;
+}
+
+.club {
+    margin-left: 40px;
+    margin-top: 30px;
+    width: 342px;
+    height: 460px;
+    align-content: center;
+    background-image: url('images/club.png');
+    align-items: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#yen {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 120px;
+    height: auto;
+    margin-top: 0px;
+    max-height: 40px;
+}
+
+#clubs {
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 1200px;
+}
+
+#clubtit {
+    font-size: 30px;
+    margin-left: 420px;
+    margin-right: auto;
+}
+
+#perbar {
+    display: flex;
+    margin-top: 30px;
+}
+
+.perb {
+    background-color: green;
+    width: 300px;
+    font-size: 10px;
+    border-radius: 15px;
+}
+
+.pgit {
+    margin-top: 40px;
+    margin-left: 20px;
+    display: flex;
+    border: solid;
+    border-color: #E96E6E;
+}
+
+#pgtit{
+    color: green;
+    align-items: center;
+    margin-left: 40px;
+    margin-right: 90px;
+    margin-top: 10px;
+}
