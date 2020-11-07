@@ -21,11 +21,13 @@ function Home() {
                 <div>
                 <h1 id="tpl">KEŞFET</h1>
                 </div>
+                <div id="tsp">
                 <p id="sp">
                     İstersen kariyerine göre istersen de yaşam tarzına göre
                     A'dan Z'ye istediğin topluluğa katıl ve sen de sadece
                     okumuş olma!
                 </p>
+                </div>
             </div>
             </div>
         </div>

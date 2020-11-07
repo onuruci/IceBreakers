@@ -19,7 +19,7 @@ function ClubPage({club, addPerClub}) {
                 <div>
                     <img src={club.img} alt="" srcset="" className="photo"/>
                 </div>
-                <div id="details">
+                <div id="detail">
                     <button onClick={handleClick}>Join</button>
                 </div>
                 </div>

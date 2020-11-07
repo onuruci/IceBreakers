@@ -21,7 +21,7 @@ function EventPage({event, addPerEvent}) {
                 <div>
                     <img src={event.parent.img} alt="" srcset="" className="photo"/>
                 </div>
-                <div id="details">
+                <div id="detail">
                     <button onClick={handleClick}>Join</button>
                 </div>
                 </div>

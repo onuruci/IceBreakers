@@ -18,26 +18,33 @@ function PageEvent({event, changeCurrEvent}) {
       };
 
     return(
-        <div class="pgit">
+        <div class="pgita">
             <div id="pgtit">
-                <div>
-                <h1>{event.title}</h1>
+                <div id="pogit">
+                    <h1>{event.title}</h1>
                 </div>
-                <div>
-                    <h5>{event.parent.title}</h5>
-                </div>
-                <div>
-                    <h5>{event.date}</h5>
-                </div>
-                <div>
-                    <p>
-                        {event.exp}
-                    </p>
+                <div id="blob">
+                    <div>
+                        <div>
+                            <h5>Organizasyon: {event.parent.title}</h5>
+                        </div>
+                        <div>
+                            <img src={event.parent.img} alt="" srcset="" className="primg"/>
+                        </div>                    
+                    </div>
+                    <div id="dato">
+                        <h5>Tarih: {event.date}</h5>
+                    </div>
+                    <div id="expo">
+                        <p>
+                            {event.exp}
+                        </p>
+                    </div>
                 </div>
             </div>
             <div>
             <div>
-                <img src={event.parent.img} alt="" srcset="" className="photo"/>
+                <img src={event.img} alt="" srcset="" className="phot"/>
             </div>
             <div id="pdetails">
                 <Link style={linkStyle} to="/event" onClick={handleClick}>Details</Link>

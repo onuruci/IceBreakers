@@ -71,20 +71,13 @@ let dagcilik = {
     events: [],
 };
 
-let clubItems = [
-    eestec,
-    musical,
-    tiyatro,
-    ieee,
-    estiem,
-    dagcilik
-];
 
 
 
 let e1 = {
     id: c++,
     parent : eestec,
+    img: "https://educationusarussia.org/wp-content/uploads/2017/10/Kruglyj-stol-900x900.jpg",
     title: 'Tanışma Toplantısı',
     date: '18/10/2021',
     exp: "Yurt dışına gitmek ister misiniz?",
@@ -93,6 +86,7 @@ let e1 = {
 let e2 = {
     id: c++,
     parent : ieee,
+    img: "https://yt3.ggpht.com/a/AATXAJyTO6sIk_Dd_6KC207qib9UJd-GchD1FI09n2ss=s900-c-k-c0xffffffff-no-rj-mo",
     title: 'Hackathon',
     date: '18/12/2021',
     exp: "Yeni fikirler üretip yarışmanın tam zamanı",
@@ -101,6 +95,7 @@ let e2 = {
 let e3 = {
     id: c++,
     parent : musical,
+    img: "https://yt3.ggpht.com/a/AGF-l7-lMzuPBTk0fmPqFyb0DTsCf03C1ALmC0Vdgg=s900-c-k-c0xffffffff-no-rj-mo",
     title: 'Tanışma Toplantısı',
     date: '20/10/2021',
     exp: "Company nin bir parçası olmak ister misiniz?",
@@ -109,6 +104,7 @@ let e3 = {
 let e4 = {
     id: c++,
     parent : eestec,
+    img: "https://yt3.ggpht.com/a/AATXAJxTBv1lPEvTs1xzk0Beha_5Avbt1OISmMTAgFb7ag=s900-c-k-c0x00ffffff-no-rj",
     title: 'Python Workshop',
     date: '16/11/2021',
     exp: "Python üzerine yeteneklerimizi geliştirelim",
@@ -117,6 +113,7 @@ let e4 = {
 let e5 = {
     id: c++,
     parent : dagcilik,
+    img: "https://yt3.ggpht.com/a/AGF-l7_8T6aMgkZp_-6_K1M0af6lh-LcvdQmDgsU5w=s900-c-k-c0xffffffff-no-rj-mo",
     title: 'Tanışma Yürüyüşü',
     date: '28/10/2021',
     exp: "Yürümeye hazır mısınız?",
@@ -125,6 +122,7 @@ let e5 = {
 let e6 = {
     id: c++,
     parent : estiem,
+    img: "http://demo.lunartheme.com/lincoln/wp-content/uploads/2015/08/iStock_000044886808_Full-900x900.jpg",
     title: 'Tanışma Toplantısı',
     date: '18/10/2021',
     exp: "EESTEC no 1",
@@ -132,6 +130,14 @@ let e6 = {
 
 let events = [e1,e2,e3,e4,e5,e6];
 
+let clubItems = [
+    eestec,
+    musical,
+    tiyatro,
+    ieee,
+    estiem,
+    dagcilik
+];
 
 
 

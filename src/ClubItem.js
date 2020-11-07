@@ -37,7 +37,7 @@ function ClubItem({item, changeCurrClub}) {
                 <img src={item.img} alt="" srcset="" className="photo"/>
             </div>
             <div id="details">
-                <Link style={linkStyle} to="/topluluk" onClick={handleClick}>Details</Link>
+                <Link style={linkStyle} to="/topluluk" onClick={handleClick}>Detaylar</Link>
             </div>
         </div>
     );
