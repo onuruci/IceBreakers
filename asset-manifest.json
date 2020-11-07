@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/IceBreakers/static/css/main.bb73e99b.chunk.css",
-    "main.js": "/IceBreakers/static/js/main.fd1e96f8.chunk.js",
-    "main.js.map": "/IceBreakers/static/js/main.fd1e96f8.chunk.js.map",
+    "main.css": "/IceBreakers/static/css/main.ba3c4935.chunk.css",
+    "main.js": "/IceBreakers/static/js/main.5ef42f5f.chunk.js",
+    "main.js.map": "/IceBreakers/static/js/main.5ef42f5f.chunk.js.map",
     "runtime-main.js": "/IceBreakers/static/js/runtime-main.b53c533a.js",
     "runtime-main.js.map": "/IceBreakers/static/js/runtime-main.b53c533a.js.map",
     "static/js/2.b62804dd.chunk.js": "/IceBreakers/static/js/2.b62804dd.chunk.js",
     "static/js/2.b62804dd.chunk.js.map": "/IceBreakers/static/js/2.b62804dd.chunk.js.map",
     "index.html": "/IceBreakers/index.html",
-    "static/css/main.bb73e99b.chunk.css.map": "/IceBreakers/static/css/main.bb73e99b.chunk.css.map",
+    "static/css/main.ba3c4935.chunk.css.map": "/IceBreakers/static/css/main.ba3c4935.chunk.css.map",
     "static/js/2.b62804dd.chunk.js.LICENSE.txt": "/IceBreakers/static/js/2.b62804dd.chunk.js.LICENSE.txt",
     "static/media/eestec.7b270fa2.jpg": "/IceBreakers/static/media/eestec.7b270fa2.jpg",
     "static/media/hom.e016118d.png": "/IceBreakers/static/media/hom.e016118d.png",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.b53c533a.js",
     "static/js/2.b62804dd.chunk.js",
-    "static/css/main.bb73e99b.chunk.css",
-    "static/js/main.fd1e96f8.chunk.js"
+    "static/css/main.ba3c4935.chunk.css",
+    "static/js/main.5ef42f5f.chunk.js"
   ]
 }
