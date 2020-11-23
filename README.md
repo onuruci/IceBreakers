@@ -1,3 +1,7 @@
+This Project is created with React.js during Just in Case Hackathon with designers Şamil Kıvrak and Atakan Kılınç.
+
+Live Preview: https://onuruci.github.io/IceBreakers/ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
