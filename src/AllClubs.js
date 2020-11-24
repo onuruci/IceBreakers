@@ -18,7 +18,7 @@ let eestec = {
 
 let musical = {
     id: count++,
-    img: "https://thumbnailer.mixcloud.com/unsafe/900x900/extaudio/6/7/9/0/98b7-b0ee-4349-85ad-4325d3472168",
+    img: "",
     title: "Muzikal",
     explain: "Dolor amet ipsum toler yow ye jov je mükemmel klüp sonsuz tavsiye kesinlikle katılın bize katılın backend eklemek gerekiyor hız hız gerek bize dostum",
     mission: "Üye",
