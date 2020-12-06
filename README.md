@@ -1,4 +1,4 @@
-This Project is created with React.js during Just in Case Hackathon with designers Şamil Kıvrak and Atakan Kılınç.
+This Project is created with React.js during Just in Case Hackathon with designers Şamil Kıvrak and Atakan Kılıç.
 
 Live Preview: https://onuruci.github.io/IceBreakers/ 
 
